@@ -12,7 +12,7 @@
         <body>
             <div class="box" id="video" style="margin-top: 2%;">
                 <h1>Powerpoint</h1>
-                <center><iframe width="640" height="315" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4xiYp-s6sofdBEnhqNCvoptXOTGGNruoR_-JfZUtzsxHdEpy7R4EjYjWBdR0XYYOVP-xhgZhyTY-l/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></center>
+                <center><iframe width="640" height="315" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4xiYp-s6sofdBEnhqNCvoptXOTGGNruoR_-JfZUtzsxHdEpy7R4EjYjWBdR0XYYOVP-xhgZhyTY-l/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></center>  
             </div>
 
             <div class="box" id="video" style="margin-top: 2%;">
