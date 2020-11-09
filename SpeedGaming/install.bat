@@ -1,0 +1,1 @@
+cd .. & cd Chatcord & npm install express socket.io moment & npm install -D nodemon & cd VideoChat & npm i express ejs socket.io & npm i uuid

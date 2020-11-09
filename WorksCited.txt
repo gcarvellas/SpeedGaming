@@ -1,0 +1,36 @@
+API's/Coding Resources Used:
+	1.Google-profanity-words by Robert J Gabriel: https://github.com/RobertJGabriel/Google-profanity-words
+	2.Socket.io : https://github.com/socketio/socket.io
+	3.Nodemon: https://github.com/remy/nodemon
+	4.jQuery 3.2.1: https://code.jquery.com/ src: "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"
+	5. Chatcord by Brad Traversy: https://github.com/bradtraversy/chatcord
+	6. Zoom-Clone-With-WebRTC https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC
+
+Art:
+	1. Logo by Zion Lim
+	2. https://www.vexels.com/png-svg/preview/128840/stopwatch-timer (for the logo)
+
+Videos:
+	
+	Trailer: https://www.youtube.com/watch?v=QmONANxfFjI
+		1. https://www.youtube.com/watch?v=zhRSLmF-mus
+		2. https://www.youtube.com/watch?v=HbVYuPogyP0
+		3. https://www.youtube.com/watch?v=OhLaqhyjC-Y
+		4. https://www.youtube.com/watch?v=YovFG8uxttc
+		5. https://www.youtube.com/watch?v=wT2KS71FQRg
+		6. https://www.youtube.com/watch?v=aWIE0PX1uXk
+		7. https://www.youtube.com/watch?v=qDQnFYo8eug
+		8. https://www.youtube.com/watch?v=ovQC32AKAnU
+		9. https://www.jhunewsletter.com/article/2020/04/how-does-playing-more-video-games-during-lock-down-affect-health
+		10. https://www.crosswalk.com/family/marriage/will-i-still-be-married-to-my-spouse-in-heaven.html
+		11. https://thenounproject.com/term/xbox-controller/
+
+Programs/Programming Languages Used:
+	1. Sony Vegas
+	2. ScreencastOMatic
+	3. HTML	
+	4. CSS
+	5. Javascript
+	6. PHP
+	7. Virtual Studio Code
+	8. XAMPP
