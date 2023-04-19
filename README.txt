@@ -1,3 +1,5 @@
+# Altice Winter 2020 Hackathon Submission. This project is for personal use and is now read-only
+
 Hello to whomever may be reading this. This is Caitlin Carbone and George Carvellas' Hackathon Submission.
 
 -To setup the website on a localhost, follow these steps:
